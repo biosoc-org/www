@@ -1,17 +1,4 @@
-
-## biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/HEAD.md)
-
-BioSoc Society hopes to empower all community members to be makers and creators rather than passive recipients. 
-Everyone is encouraged to contribute, no matter what skill level.
-We support 40 applications in the synthetic biology community and many on our Github.
-Contributions require testing, bug reports, user documentation, and code examples.
-
-## Menu [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/MENU.md)
-
-+ [SBOLDesigner](#SBOL Designer)
-+ [Sources](#Sources)
-
-### SBOL Designer [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SBOLD.md)
+### SBOL Designer
 
 SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.
 
@@ -42,14 +29,3 @@ It allows users to create and manipulate genetic construct sequences using the S
 
 + [SBOLDesigner DEMO on youtube](https://www.youtube.com/watch?v=bR1SDt3RAP0)
 + [SBOLDesigner Description by Myers Research Group](https://async.ece.utah.edu/tools/sboldesigner/)
-
-## Sources [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SOURCES.md)
-
-+ [Nonasoftware](https://www.nonasoftware.com/software)
-
-## biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/FOOT.md)
-
-+ Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
-
----
-+ Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
