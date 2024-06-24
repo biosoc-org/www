@@ -2,9 +2,8 @@
 
 SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.
 
-[Project Website](https://async.ece.utah.edu/tools/sboldesigner/)
-
-[Demo](https://www.youtube.com/watch?v=z9rWclkisxI&ab_channel=MyersResearchGroupUniversityofUtah)
++ [Project Website](https://async.ece.utah.edu/tools/sboldesigner/)
++ [Demo](https://www.youtube.com/watch?v=z9rWclkisxI&ab_channel=MyersResearchGroupUniversityofUtah)
 
 ### Key Features
 
@@ -25,7 +24,7 @@ It allows users to create and manipulate genetic construct sequences using the S
 6. **Export Options:** You can export your designs in SBOL format for sharing with other tools or collaborators. This interoperability ensures seamless integration with other software in the synthetic biology workflow.
 
 
-### More
+### Sources
 
 + [SBOLDesigner DEMO on youtube](https://www.youtube.com/watch?v=bR1SDt3RAP0)
 + [SBOLDesigner Description by Myers Research Group](https://async.ece.utah.edu/tools/sboldesigner/)
