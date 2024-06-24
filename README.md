@@ -47,8 +47,5 @@ It allows users to create and manipulate genetic construct sequences using the S
 + [Nonasoftware](https://www.nonasoftware.com/software)
 + download [biosoc-software.pdf](biosoc-software.pdf)
 
- [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/#DOCS/FOOT.md)
-
-
 ---
 + Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
