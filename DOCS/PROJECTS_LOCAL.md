@@ -1,6 +1,0 @@
-+ [/home/tom/github/biosoc-org/www](file:///home/tom/github/biosoc-org/www/)
-+ [DOCS ## biosoc.org](file:///home/tom/github/biosoc-org/www/DOCS/index.html)
-+ [DOCS ## Menu](file:///home/tom/github/biosoc-org/www/DOCS/index.html)
-+ [DOCS ### SBOL Designer](file:///home/tom/github/biosoc-org/www/DOCS/index.html)
-+ [DOCS ## Sources](file:///home/tom/github/biosoc-org/www/DOCS/index.html)
-+ [DOCS ## biosoc.org](file:///home/tom/github/biosoc-org/www/DOCS/index.html)
