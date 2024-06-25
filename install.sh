@@ -7,3 +7,4 @@ sudo dnf install 'tex(cmti7.pfb)'
 brew install basictex
 brew install basex
 sudo dnf install -y groff ghostscript
+sudo python3 -m pip install bs4

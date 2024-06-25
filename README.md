@@ -3,13 +3,19 @@
 
 BioSoc Society hopes to empower all community members to be makers and creators rather than passive recipients. 
 Everyone is encouraged to contribute, no matter what skill level.
-We support 40 applications in the synthetic biology community and many on our Github.
+We support over a dozen applications in the synthetic biology community and many on Github.
 Contributions require testing, bug reports, user documentation, and code examples.
+
++ [Sources](#Sources)
 
 ## BioSoc Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/MENU.md)
 
 + [SBOLDesigner](#SBOL Designer)
-+ [Sources](#Sources)
++ [assembly - Software for Microfluidic and Biological Automation - Biosoc.org](assembly)
++ [dataops - Data Management - biosoc.org ](dataops)
++ [design - Projects Overview - biosoc.org](design)
++ [test](test)
++ [tools - Synthetic Biology Tools - Biosoc.org](tools)
 
 ### SBOL Designer [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SBOLD.md)
 
@@ -42,9 +48,437 @@ It allows users to create and manipulate genetic construct sequences using the S
 + [SBOLDesigner DEMO on youtube](https://www.youtube.com/watch?v=bR1SDt3RAP0)
 + [SBOLDesigner Description by Myers Research Group](https://async.ece.utah.edu/tools/sboldesigner/)
 
+## Software for Microfluidic and Biological Automation - Biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/assembly/README.md)
+
+This repository provides a comprehensive list of tools designed to facilitate the design and automation of microfluidic devices and other biological tasks. Each tool comes with a description, relevant links to project websites, source code, and demo videos.
+Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
+
+
+### Table of Contents
+1. [3DμF](#3dμf)
+2. [PyHamilton](#pyhamilton)
+3. [Fluigi](#fluigi)
+4. [Primer3](#primer3)
+
+
+### 3DμF
+
+3DμF is a visual CAD tool for designing microfluidic devices. It offers outputs in STL for CNC milling, SVG for lithography, and also provides a textual JSON representation.
+
+- **Project Website:** [3DμF Website](https://3duf.org/)
+- **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/3DuF)
+- **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=05nU8eQ73U8&ab_channel=CIDARLAB)
+
+### PyHamilton
+
+PyHamilton provides a set of standardized libraries developed for use with Hamilton liquid handling robots.
+
+#### Resources
+
+- **Source Code:** [GitHub Repository](https://github.com/dgretton/pyhamilton)
+
+### Fluigi
+
+Fluigi automates the design of microfluidic devices used in synthetic biology by optimizing their layout based on specifications in the text-based MINT language.
+
+#### Resources
+
+- **Project Website:** [Fluigi Website](http://fluigicad.org/)
+- **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/Fluigi-Cloud)
+- **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=WO4xAA6XlrY&list=PLqdo5Two_cXhm-twPwbpeV4aCSFE85_in&index=11&ab_channel=CIDARLAB)
+
+### Primer3
+
+Primer3 is a tool used for designing and analyzing primers for PCR reactions. It also allows for the selection of primers for sequencing reactions and hybridization probes.
+
+#### Resources
+
+- **Project Website:** [Primer3 Website](https://bioinfo.ut.ee/primer3/)
+- **Source Code:** [SourceForge Repository](https://sourceforge.net/projects/primer3/)
+- **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=v8ehlJbwcEs&ab_channel=BioinformaticswithDr.Mudasir)
+
+## Data Management - biosoc.org  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/dataops/README.md)
+
+Welcome to biosoc.org, a suite of advanced tools aimed at streamlining data management in synthetic biology.
+Tools provides comprehensive solutions for data management in synthetic biology.
+Each application offers specialized functionalities to support and enhance your research endeavors.
+For more information and to access the resources, please refer to the links provided. Should you have any questions or require further assistance, do not hesitate to contact us or visit our project repositories.
+
+
+### Clotho
+
+Clotho is a versatile framework for engineering synthetic biological systems and managing the data associated with their creation. It allows users to author data schemas, execute functions and algorithms, and integrate with pre-existing applications seamlessly.
+
+#### Resources
+
+- [Source Code](https://github.com/CIDARLAB/clotho3crud)
+- [Demo](https://www.youtube.com/watch?v=y-bcUSF8FcY&list=PLqdo5Two_cXhUJUZBQHmBhdsrwWrOW9fQ&ab_channel=CIDARLAB)
+
+### Knox
+
+Knox is a web-enabled repository designed for the storage, modification, and tracking of genetic design spaces. It manages thousands of genetic design variants and represents them as directed graphs. Knox can be accessed via domains in the format `<insertname>.knoxcad.org`.
+
+#### Resources
+
+- [Project Website](https://nonasoftware.org/apps/test.knoxcad.org)
+- [Source Code](https://github.com/CIDARLAB/knox)
+
+### OWL
+
+OWL is an automatic datasheet generator specifically designed for synthetic biology, facilitating efficient datasheet creation and management.
+
+#### Resources
+
+- [Source Code](https://github.com/CIDARLAB/Owl_v1)
+
+## Projects Overview - biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/design/README.md)
+
+This README provides a structured overview of various software tools developed by cidarlab.org, genedesign.org, hicsail, salislab, synbiohub.org, and others focusing on those for designing synthetic biology constructs.
+Each tool has its specific use cases, features, and resources available for further exploration.
+
+## Constellation
+
+Parses a rich set of operators as defined by GOLDBAR and enumerates genetic designs that satisfy user-defined specifications through mathematically rigorous graphs.
+
+#### Resources
+- [Project Website](https://github.com/hicsail/constellation-js)
+- [Source Code](https://github.com/hicsail/constellation-js)
+- [Demo](https://www.youtube.com/watch?v=nYqvjrBhhGE&ab_channel=CIDARLAB)
+
+## GeneDesign
+
+Web-based synthetic gene designer with various modules for sequence manipulation such as reverse translator and codon juggler.
+
+#### Resources
+- [Project Website](https://www.genedesign.org/index)
+- [Source Code](https://github.com/GeneDesign/GeneDesign)
+
+## Pigeon
+
+Web-based tool for translating a textual description of a synthetic biology design into an image, allowing for the programmatic generation of design visualizations.
+
+#### Resources
+- [Project Website](https://www.cidarlab.org/pigeon)
+
+## Raven
+
+Uses a dynamic programming algorithm to design high-quality DNA assembly plans and produces SBOL-compliant images with human-readable instructions.
+
+#### Resources
+- [Project Website](https://www.cidarlab.org/raven)
+- [Source Code](https://github.com/CIDARLAB/raven-public)
+- [Demo](https://www.youtube.com/watch?v=1FV4TjnttDY&list=PLqdo5Two_cXhUJUZBQHmBhdsrwWrOW9fQ&index=4&ab_channel=CIDARLAB)
+
+## TASBE
+
+Synthetic biology automation software for tasks from high-level specification to part assignment and assembly.
+
+#### Resources
+- [Project Website](https://tasbe.github.io/)
+- [Source Code](https://github.com/TASBE/TASBEFlowAnalytics)
+- [Demo](https://www.youtube.com/watch?v=JKv3_5WGFOo&ab_channel=CIDARLAB)
+
+## DAFD
+
+First microfluidic design automation software that uses machine learning to deliver a user-specified desired performance.
+
+#### Resources
+- [Project Website](http://dafdcad.org/)
+- [Source Code](https://github.com/CIDARLAB/dafd)
+
+## Mage
+
+Java part of MERLIN for analyzing genetic packages.
+
+#### Resources
+- [Source Code](https://github.com/CIDARLAB/javamage)
+
+## Puppeteer
+
+Web-based planning and instruction generation tool for automating DNA assembly tasks, translating protocols into human- and machine-readable instructions.
+
+#### Resources
+- [Project Website](https://www.cidarlab.org/puppeteer)
+
+## Sequence Refiner
+
+Sequence alignment tool that refines a multiple sequence alignment by iterative realignment with a predetermined conserved core model of a protein family.
+
+#### Resources
+- [Project Website](https://ftp.ncbi.nih.gov/pub/REFINER/data/)
+
+## Vector Editor
+
+Web-based DNA sequence-editing and analysis tool with features like restriction enzyme manager, amino acid translation, and gel digest prediction.
+
+#### Resources
+- [Project Website](https://public-registry.jbei.org/vectoreditor/)
+- [Source Code](https://github.com/JBEI/vectoreditor)
+- [Demo](https://www.youtube.com/watch?v=Od9QbuAlc0s&ab_channel=JointBioenergyInst)
+
+## Double Dutch
+
+Tool for designing combinational libraries of biological systems using response surface methodology.
+
+#### Resources
+- [Demo](https://github.com/CIDARLAB/doubledutch)
+
+## Phoenix
+Framework for designing complex genetic systems focusing on behavior over time rather than steady-state behavior.
+
+#### Resources
+- [Project Website](https://www.cidarlab.org/phoenix)
+- [Source Code](https://github.com/cidarlab/gridtli)
+- [Demo](https://www.youtube.com/watch?v=A00VEBxIZXc&list=PLqdo5Two_cXgTi4MpqRtotE-UPBU_UwSu&ab_channel=CIDARLAB)
+
+## RBS Calculator
+Predicts and controls translation initiation and protein expression, also optimizes synthetic RBS sequences to achieve targeted translation initiation rates.
+
+#### Resources
+- [Project Website](https://salislab.net/software/)
+- [Demo](https://www.youtube.com/watch?v=yz2HXqOnHKE&ab_channel=GenomeCompiler)
+
+## SynBioHub
+Design repository for uploading and sharing DNA and protein designs.
+
+#### Resources
+- [Project Website](https://synbiohub.org/)
+
+## iBioSim
+Tool for modeling, analysis, and design of genetic circuits, also applicable to other biological and chemical systems.
+
+#### Resources
+- [Project Website](https://async.ece.utah.edu/tools/ibiosim/)
+- [Source Code](https://github.com/MyersResearchGroup/iBioSim)
+- [Demo](https://www.youtube.com/watch?v=YfsUis2cV2A&ab_channel=SyntheticBiologyOpenLanguageSBOL)
+
+Feel free to explore the provided links for further details and resources related to each project.
+
+ [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/test/README.md)
+#### Program Type
+
+### Aquarium
+
+### Software Type: Test
+
+### Analysis and comprehension tool that uses the open-source statistical language, R; AMI and Docker images are available
+
+[Project Website](https://www.aquarium.bio/)
+
+[Source Code](https://code.bioconductor.org/)
+
+### Copasi
+
+### Software Type: Test
+
+### COPASI is a stand-alone program that supports models in the SBML standard and can simulate their behavior using ODEs or Gillespie’s stochastic simulation algorithm; arbitrary discrete events can be included in such simulations.
+
+[Project Website](http://copasi.org/)
+
+[Source Code](https://github.com/copasi/COPASI)
+
+[Demo](https://www.youtube.com/watch?v=4pH16ema-Lg&list=PLHUVSEH0UcxhpX3vhdSJmBcmJywy0PI1P&ab_channel=CopasiTutorials)
+
+### Road Runner
+
+### Software Type: Test
+
+### A portable simulation engine for systems and synthetic biology models in SBML format; RoadRunner is written in C# and incorporates C, Cþþ, and Python APIs
+
+[Project Website](https://www.libroadrunner.org/)
+
+[Source Code](https://sourceforge.net/projects/libroadrunner/files/)
+
+### BioConductor
+
+### Software Type: Test
+
+### Analysis and comprehension tool that uses the open-source statistical language, R; AMI and Docker images are available
+
+[Project Website](https://www.bioconductor.org/)
+
+[Source Code](https://code.bioconductor.org/)
+
+### Morpheus
+
+### Software Type: Test
+
+### A modeling environment for simulating cell-based models with ordinary differential
+equations and reaction–diffusion systems; multiscale biological models can be  
+defined in biological terms and mathematical expressions
+
+[Project Website](http://morpheus.gitlab.io/)
+
+[Source Code](https://gitlab.com/morpheus.lab/morpheus)
+
+### Tinkercell
+
+### Software Type: Test
+
+### Incorporates a diagram that is detailed enough so that it can be mapped to models or experimental results; various mathematical analyses can then be run on those models
+
+[Project Website](http://www.tinkercell.com/)
+
+[Demo](https://www.youtube.com/watch?v=WRpdorLsrK0&ab_channel=DeepakChandran)
+
+### BioPSy
+
+### Software Type: Test
+
+### Performs guaranteed parameter set synthesis for ODE biological models expressed in SBML given a desired behavior expressed by time-series data
+
+[Source Code](https://github.com/dreal/biology)
+
+### Pysces
+
+### Software Type: Test
+
+### Provides a variety of tools for the analysis of cellular systems; these include a human readable model description language, a structural, and a bifurcation analysis module—PySCeS supports SBML and SED-ML
+
+[Project Website](https://pysces.sourceforge.net/)
+
+[Source Code](https://sourceforge.net/projects/primer3/)
+
+### gro
+
+### Software Type: Test
+
+### gro is a language for programming, modeling, specifying and simulating the behavior of cells in growing microcolonies of microorganisms.
+
+[Project Website](https://depts.washington.edu/soslab/gro/)
+
+[Source Code](https://github.com/klavinslab/gro)
+
+## Synthetic Biology Tools - Biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/tools/README.md)
+
+This documentation provides a comprehensive overview of various software tools useful for synthetic biology applications. 
+These tools cover a range of purposes including modular model definition, flow cytometry data analysis, genetic circuit creation, metabolic pathway mapping, genomic reprogramming, and DNA sequence generation.
+
+### Contents
+
+1. [Antimony](#antimony)
+2. [FloCal](#flocal)
+3. [Kera](#kera)
+4. [CELLO](#cello)
+5. [GLAMM](#glamm)
+6. [Merlin](#merlin)
+7. [Eugene](#eugene)
+8. [GSL](#gsl)
+9. [MoSec](#mosec)
+
+
+
+### Antimony
+
+**Software Type**: Text-based modular language
+
+A text-based modular human-readable/writable model definition language with capabilities of easy translation into SMBL.
+
+#### Resources
+- **Project Website**: [Antimony Project Website](https://antimony.sourceforge.net/)
+- **Source Code**: [Antimony Source Code](https://antimony.sourceforge.net/files.html)
+
+
+
+### FloCal
+
+**Software Type**: Library for flow cytometry data
+
+A library for reading, analyzing, and calibrating flow cytometry data; accepts FCS files as input and is compatible with different calibration particles, fluorescent probes, and cell types.
+
+#### Resources
+- **Project Website**: [FloCal Project Website](https://flowcal.readthedocs.io/en/latest/#)
+- **Source Code**: [FloCal Source Code](https://github.com/taborlab/FlowCal)
+
+
+
+### 3. Kera
+
+**Software Type**: Object-oriented programming language
+
+An object-oriented programming language for synthetic biology, tempered by the biopart rule library, Samhita.
+
+#### Resources
+- **Source Code**: [Kera Source Code](https://sourceforge.net/projects/kera/files/?source=navbar)
+
+
+
+### 4. CELLO
+
+**Software Type**: Genetic circuit design tool
+
+Software for creating genetic circuits, using as input a high-level logic specification written in Verilog.
+
+#### Resources
+- **Project Website**: [CELLO Project Website](https://cellocad.org/#/welcome?redirect=%2Fhome)
+- **Source Code**: [CELLO Source Code](https://github.com/CIDARLAB/cello)
+- **Demo**: [CELLO Demo](https://www.youtube.com/watch?v=SLn_SkL7vkQ&list=PLqdo5Two_cXhQAL72oXgUShcTBJfSSeJn&ab_channel=CIDARLAB)
+
+
+
+### 5. GLAMM
+
+**Software Type**: Metabolic pathway mapping
+
+Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and microbial metabolism.
+
+#### Resources
+- **Project Website**: [GLAMM Project Website](https://glamm.lbl.gov/)
+- **Source Code**: [GLAMM Source Code](https://code.google.com/archive/p/glamm/source/default/source)
+
+
+
+### 6. Merlin
+
+**Software Type**: Genomic reprogramming application
+
+A web-based application for genomic reprogramming via a rapid and efficient method known as Multiplex Automated Genome Engineering (MAGE).
+
+#### Resources
+- **Project Website**: [Merlin Project Website](https://www.cidarlab.org/merlin)
+- **Source Code**: [Merlin Source Code](https://github.com/CIDARLAB/magelet)
+
+
+
+### 7. Eugene
+
+**Software Type**: Language for rule-based design
+
+An ecosystem of languages tailored for rule-based design of synthetic biological systems, devices, parts, and DNA sequences.
+
+#### Resources
+- **Project Website**: [Eugene Project Website](https://eugenecad.org/index.html)
+- **Source Code**: [Eugene Source Code](https://github.com/CIDARLAB/eugene-v2.0)
+- **Demo**: [Eugene Demo](https://www.youtube.com/watch?v=xmGiOq_hVPw&list=PLqdo5Two_cXhUJUZBQHmBhdsrwWrOW9fQ&index=5&ab_channel=CIDARLAB)
+
+
+
+### 8. GSL
+
+**Software Type**: DNA construct design language
+
+A language that facilitates the design of large and complex DNA constructs used to engineer genomes; incorporates a set of low-level DNA manipulation primitives.
+
+#### Resources
+- **Source Code**: [GSL Source Code](https://github.com/Amyris/GslCore)
+
+
+
+### 9. MoSec
+
+**Software Type**: DNA sequence generation application
+
+Java application capable of generating DNA sequences, and exporting formats such as FASTA, GenBank, EMBL, and SBOL from SBML and CellML models.
+
+#### Resources
+- **Source Code**: [MoSec Source Code](http://ico2s.org/software/mosec.html)
+
+
+
+This document provides a brief overview and resource links for synthetic biology tools to aid in various applications. For further information, visit the respective project websites and source code repositories.
+
 ## Sources [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SOURCES.md)
 
-+ [Nonasoftware](https://www.nonasoftware.com/software)
 + download [biosoc-software.pdf](biosoc-software.pdf)
 
 ---
