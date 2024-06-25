@@ -1,4 +1,4 @@
-## Synthetic Biology Tools
+## Synthetic Biology standards, languages, libraries
 
 This documentation provides a comprehensive overview of various software tools useful for synthetic biology applications. 
 These tools cover a range of purposes including modular model definition, flow cytometry data analysis, genetic circuit creation, metabolic pathway mapping, genomic reprogramming, and DNA sequence generation.

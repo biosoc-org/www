@@ -11,11 +11,11 @@ Contributions require testing, bug reports, user documentation, and code example
 ## BioSoc Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/MENU.md)
 
 + [SBOLDesigner](#SBOL Designer)
-+ [assembly - Software for Microfluidic and Biological Automation](assembly)
-+ [dataops - Data Management](dataops)
-+ [design - Projects Overview](design)
++ [Assembly - Software for Microfluidic and Biological Automation](assembly)
++ [Data Management](dataops)
++ [Design tools](design)
 + [Analysis tools](analysis)
-+ [tools - Synthetic Biology Tools](tools)
++ [Standards, languages, libraries](tools)
 
 ### SBOL Designer [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SBOLD.md)
 
@@ -360,7 +360,7 @@ A programming, modeling, specifying, and simulating language for the behavior of
 - [Project Website](https://depts.washington.edu/soslab/gro/)  
 - [Source Code](https://github.com/klavinslab/gro)
 
-## Synthetic Biology Tools [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/tools/README.md)
+## Synthetic Biology standards, languages, libraries [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/tools/README.md)
 
 This documentation provides a comprehensive overview of various software tools useful for synthetic biology applications. 
 These tools cover a range of purposes including modular model definition, flow cytometry data analysis, genetic circuit creation, metabolic pathway mapping, genomic reprogramming, and DNA sequence generation.
