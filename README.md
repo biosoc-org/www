@@ -17,7 +17,7 @@ Contributions require testing, bug reports, user documentation, and code example
 + [Standards, languages, libraries](tools)
 
  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/INTRO.md)
-## list of software tools
+## List
 
 ### CAD Tools
 
