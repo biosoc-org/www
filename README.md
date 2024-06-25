@@ -54,7 +54,8 @@ This repository provides a comprehensive list of tools designed to facilitate th
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
 
 
-### Table of Contents
+### Contents
+
 1. [3DμF](#3dμf)
 2. [PyHamilton](#pyhamilton)
 3. [Fluigi](#fluigi)
@@ -69,6 +70,7 @@ Feel free to explore the links provided for more information and access to each 
 - **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/3DuF)
 - **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=05nU8eQ73U8&ab_channel=CIDARLAB)
 
+
 ### PyHamilton
 
 PyHamilton provides a set of standardized libraries developed for use with Hamilton liquid handling robots.
@@ -76,6 +78,7 @@ PyHamilton provides a set of standardized libraries developed for use with Hamil
 #### Resources
 
 - **Source Code:** [GitHub Repository](https://github.com/dgretton/pyhamilton)
+
 
 ### Fluigi
 
@@ -86,6 +89,7 @@ Fluigi automates the design of microfluidic devices used in synthetic biology by
 - **Project Website:** [Fluigi Website](http://fluigicad.org/)
 - **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/Fluigi-Cloud)
 - **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=WO4xAA6XlrY&list=PLqdo5Two_cXhm-twPwbpeV4aCSFE85_in&index=11&ab_channel=CIDARLAB)
+
 
 ### Primer3
 
@@ -113,6 +117,7 @@ Clotho is a versatile framework for engineering synthetic biological systems and
 - [Source Code](https://github.com/CIDARLAB/clotho3crud)
 - [Demo](https://www.youtube.com/watch?v=y-bcUSF8FcY&list=PLqdo5Two_cXhUJUZBQHmBhdsrwWrOW9fQ&ab_channel=CIDARLAB)
 
+
 ### Knox
 
 Knox is a web-enabled repository designed for the storage, modification, and tracking of genetic design spaces. It manages thousands of genetic design variants and represents them as directed graphs. Knox can be accessed via domains in the format `<insertname>.knoxcad.org`.
@@ -121,6 +126,7 @@ Knox is a web-enabled repository designed for the storage, modification, and tra
 
 - [Project Website](https://nonasoftware.org/apps/test.knoxcad.org)
 - [Source Code](https://github.com/CIDARLAB/knox)
+
 
 ### OWL
 
@@ -262,12 +268,12 @@ Tool for modeling, analysis, and design of genetic circuits, also applicable to 
 - [Source Code](https://github.com/MyersResearchGroup/iBioSim)
 - [Demo](https://www.youtube.com/watch?v=YfsUis2cV2A&ab_channel=SyntheticBiologyOpenLanguageSBOL)
 
-#  Analysis Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/analysis/README.md)
+##  Analysis Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/analysis/README.md)
 
 
 various computational biology software tools, including their types, functionalities, and access to their project websites, source codes, and demos.
 
-## Aquarium
+### Aquarium
 
 Analysis and comprehension tool leveraging the open-source statistical language, R. AMI and Docker images are available.  
 
@@ -276,7 +282,7 @@ Analysis and comprehension tool leveraging the open-source statistical language,
 - [Project Website](https://www.aquarium.bio/)  
 - [Source Code](https://code.bioconductor.org/)
 
-## Copasi
+### Copasi
 
 A standalone program supporting SBML standard models, capable of simulating behavior using ODEs or the Gillespie stochastic simulation algorithm. It includes arbitrary discrete events in simulations.  
 
@@ -286,7 +292,7 @@ A standalone program supporting SBML standard models, capable of simulating beha
 - [Source Code](https://github.com/copasi/COPASI)  
 - [Demo](https://www.youtube.com/watch?v=4pH16ema-Lg&list=PLHUVSEH0UcxhpX3vhdSJmBcmJywy0PI1P&ab_channel=CopasiTutorials)
 
-## Road Runner
+### Road Runner
 
 A portable simulation engine for systems and synthetic biology models in SBML format. Written in C#, it incorporates C, C++, and Python APIs.  
 
@@ -296,7 +302,7 @@ A portable simulation engine for systems and synthetic biology models in SBML fo
 - [Source Code](https://sourceforge.net/projects/libroadrunner/files/)
 
 
-## BioConductor
+### BioConductor
 
 Analysis and comprehension tool using the open-source statistical language, R. AMI and Docker images are available.  
 
@@ -306,7 +312,7 @@ Analysis and comprehension tool using the open-source statistical language, R. A
 - [Source Code](https://code.bioconductor.org/)
 
 
-## Morpheus
+### Morpheus
 
 A modeling environment for simulating cell-based models with ordinary differential equations and reaction–diffusion systems. It supports multiscale biological models defined in biological terms and mathematical expressions.  
 
@@ -316,7 +322,7 @@ A modeling environment for simulating cell-based models with ordinary differenti
 - [Source Code](https://gitlab.com/morpheus.lab/morpheus)
 
 
-## Tinkercell
+### Tinkercell
 
 Incorporates a detailed diagram that can be mapped to models or experimental results, allowing various mathematical analyses to be run on those models.  
 
@@ -326,7 +332,7 @@ Incorporates a detailed diagram that can be mapped to models or experimental res
 - [Demo](https://www.youtube.com/watch?v=WRpdorLsrK0&ab_channel=DeepakChandran)
 
 
-## BioPSy
+### BioPSy
 
 Performs guaranteed parameter set synthesis for ODE biological models expressed in SBML based on desired behavior expressed by time-series data.  
 
@@ -335,7 +341,7 @@ Performs guaranteed parameter set synthesis for ODE biological models expressed 
 - [Source Code](https://github.com/dreal/biology)
 
 
-## Pysces
+### Pysces
 
 Provides tools for analyzing cellular systems, including a human-readable model description language, a structural, and a bifurcation analysis module. Supports SBML and SED-ML.  
 
@@ -345,7 +351,7 @@ Provides tools for analyzing cellular systems, including a human-readable model 
 - [Source Code](https://sourceforge.net/projects/primer3/)
 
 
-## gro
+### gro
 
 A programming, modeling, specifying, and simulating language for the behavior of cells in growing microcolonies of microorganisms.  
 
@@ -395,7 +401,7 @@ A library for reading, analyzing, and calibrating flow cytometry data; accepts F
 
 
 
-### 3. Kera 
+### Kera 
 - Object-oriented programming language
 
 An object-oriented programming language for synthetic biology, tempered by the biopart rule library, Samhita.
@@ -405,7 +411,7 @@ An object-oriented programming language for synthetic biology, tempered by the b
 
 
 
-### 4. CELLO 
+### CELLO 
 - Genetic circuit design tool
 
 Software for creating genetic circuits, using as input a high-level logic specification written in Verilog.
@@ -417,7 +423,7 @@ Software for creating genetic circuits, using as input a high-level logic specif
 
 
 
-### 5. GLAMM
+### GLAMM
 
 - Metabolic pathway mapping
 
@@ -429,7 +435,7 @@ Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and
 
 
 
-### 6. Merlin
+### Merlin
 
 - Genomic reprogramming application
 
@@ -441,7 +447,7 @@ A web-based application for genomic reprogramming via a rapid and efficient meth
 
 
 
-### 7. Eugene
+### Eugene
 
 - Language for rule-based design
 
@@ -454,7 +460,7 @@ An ecosystem of languages tailored for rule-based design of synthetic biological
 
 
 
-### 8. GSL
+### GSL
 
 - DNA construct design language
 
@@ -465,7 +471,7 @@ A language that facilitates the design of large and complex DNA constructs used 
 
 
 
-### 9. MoSec
+### MoSec
 
 - DNA sequence generation application
 

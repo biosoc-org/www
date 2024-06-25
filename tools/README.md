@@ -39,7 +39,7 @@ A library for reading, analyzing, and calibrating flow cytometry data; accepts F
 
 
 
-### 3. Kera 
+### Kera 
 - Object-oriented programming language
 
 An object-oriented programming language for synthetic biology, tempered by the biopart rule library, Samhita.
@@ -49,7 +49,7 @@ An object-oriented programming language for synthetic biology, tempered by the b
 
 
 
-### 4. CELLO 
+### CELLO 
 - Genetic circuit design tool
 
 Software for creating genetic circuits, using as input a high-level logic specification written in Verilog.
@@ -61,7 +61,7 @@ Software for creating genetic circuits, using as input a high-level logic specif
 
 
 
-### 5. GLAMM
+### GLAMM
 
 - Metabolic pathway mapping
 
@@ -73,7 +73,7 @@ Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and
 
 
 
-### 6. Merlin
+### Merlin
 
 - Genomic reprogramming application
 
@@ -85,7 +85,7 @@ A web-based application for genomic reprogramming via a rapid and efficient meth
 
 
 
-### 7. Eugene
+### Eugene
 
 - Language for rule-based design
 
@@ -98,7 +98,7 @@ An ecosystem of languages tailored for rule-based design of synthetic biological
 
 
 
-### 8. GSL
+### GSL
 
 - DNA construct design language
 
@@ -109,7 +109,7 @@ A language that facilitates the design of large and complex DNA constructs used 
 
 
 
-### 9. MoSec
+### MoSec
 
 - DNA sequence generation application
 

@@ -4,7 +4,8 @@ This repository provides a comprehensive list of tools designed to facilitate th
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
 
 
-### Table of Contents
+### Contents
+
 1. [3DμF](#3dμf)
 2. [PyHamilton](#pyhamilton)
 3. [Fluigi](#fluigi)
@@ -19,6 +20,7 @@ Feel free to explore the links provided for more information and access to each 
 - **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/3DuF)
 - **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=05nU8eQ73U8&ab_channel=CIDARLAB)
 
+
 ### PyHamilton
 
 PyHamilton provides a set of standardized libraries developed for use with Hamilton liquid handling robots.
@@ -26,6 +28,7 @@ PyHamilton provides a set of standardized libraries developed for use with Hamil
 #### Resources
 
 - **Source Code:** [GitHub Repository](https://github.com/dgretton/pyhamilton)
+
 
 ### Fluigi
 
@@ -36,6 +39,7 @@ Fluigi automates the design of microfluidic devices used in synthetic biology by
 - **Project Website:** [Fluigi Website](http://fluigicad.org/)
 - **Source Code:** [GitHub Repository](https://github.com/CIDARLAB/Fluigi-Cloud)
 - **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=WO4xAA6XlrY&list=PLqdo5Two_cXhm-twPwbpeV4aCSFE85_in&index=11&ab_channel=CIDARLAB)
+
 
 ### Primer3
 

@@ -1,9 +1,9 @@
-#  Analysis Software
+##  Analysis Software
 
 
 various computational biology software tools, including their types, functionalities, and access to their project websites, source codes, and demos.
 
-## Aquarium
+### Aquarium
 
 Analysis and comprehension tool leveraging the open-source statistical language, R. AMI and Docker images are available.  
 
@@ -12,7 +12,7 @@ Analysis and comprehension tool leveraging the open-source statistical language,
 - [Project Website](https://www.aquarium.bio/)  
 - [Source Code](https://code.bioconductor.org/)
 
-## Copasi
+### Copasi
 
 A standalone program supporting SBML standard models, capable of simulating behavior using ODEs or the Gillespie stochastic simulation algorithm. It includes arbitrary discrete events in simulations.  
 
@@ -22,7 +22,7 @@ A standalone program supporting SBML standard models, capable of simulating beha
 - [Source Code](https://github.com/copasi/COPASI)  
 - [Demo](https://www.youtube.com/watch?v=4pH16ema-Lg&list=PLHUVSEH0UcxhpX3vhdSJmBcmJywy0PI1P&ab_channel=CopasiTutorials)
 
-## Road Runner
+### Road Runner
 
 A portable simulation engine for systems and synthetic biology models in SBML format. Written in C#, it incorporates C, C++, and Python APIs.  
 
@@ -32,7 +32,7 @@ A portable simulation engine for systems and synthetic biology models in SBML fo
 - [Source Code](https://sourceforge.net/projects/libroadrunner/files/)
 
 
-## BioConductor
+### BioConductor
 
 Analysis and comprehension tool using the open-source statistical language, R. AMI and Docker images are available.  
 
@@ -42,7 +42,7 @@ Analysis and comprehension tool using the open-source statistical language, R. A
 - [Source Code](https://code.bioconductor.org/)
 
 
-## Morpheus
+### Morpheus
 
 A modeling environment for simulating cell-based models with ordinary differential equations and reaction–diffusion systems. It supports multiscale biological models defined in biological terms and mathematical expressions.  
 
@@ -52,7 +52,7 @@ A modeling environment for simulating cell-based models with ordinary differenti
 - [Source Code](https://gitlab.com/morpheus.lab/morpheus)
 
 
-## Tinkercell
+### Tinkercell
 
 Incorporates a detailed diagram that can be mapped to models or experimental results, allowing various mathematical analyses to be run on those models.  
 
@@ -62,7 +62,7 @@ Incorporates a detailed diagram that can be mapped to models or experimental res
 - [Demo](https://www.youtube.com/watch?v=WRpdorLsrK0&ab_channel=DeepakChandran)
 
 
-## BioPSy
+### BioPSy
 
 Performs guaranteed parameter set synthesis for ODE biological models expressed in SBML based on desired behavior expressed by time-series data.  
 
@@ -71,7 +71,7 @@ Performs guaranteed parameter set synthesis for ODE biological models expressed 
 - [Source Code](https://github.com/dreal/biology)
 
 
-## Pysces
+### Pysces
 
 Provides tools for analyzing cellular systems, including a human-readable model description language, a structural, and a bifurcation analysis module. Supports SBML and SED-ML.  
 
@@ -81,7 +81,7 @@ Provides tools for analyzing cellular systems, including a human-readable model 
 - [Source Code](https://sourceforge.net/projects/primer3/)
 
 
-## gro
+### gro
 
 A programming, modeling, specifying, and simulating language for the behavior of cells in growing microcolonies of microorganisms.  
 
