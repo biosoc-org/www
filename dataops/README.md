@@ -1,7 +1,6 @@
 ## Data Management - biosoc.org 
 
-Welcome to biosoc.org, a suite of advanced tools aimed at streamlining data management in synthetic biology.
-Tools provides comprehensive solutions for data management in synthetic biology.
+Comprehensive tools aimed at improving data management in synthetic biology.
 Each application offers specialized functionalities to support and enhance your research endeavors.
 For more information and to access the resources, please refer to the links provided. Should you have any questions or require further assistance, do not hesitate to contact us or visit our project repositories.
 

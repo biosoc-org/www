@@ -4,6 +4,6 @@ DOCS/SBOLD.md
 assembly/README.md
 dataops/README.md
 design/README.md
-test/README.md
+analysis/README.md
 tools/README.md
 DOCS/SOURCES.md
