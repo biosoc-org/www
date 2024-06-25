@@ -15,7 +15,6 @@ These tools cover a range of purposes including modular model definition, flow c
 8. [GSL](#gsl)
 9. [MoSec](#mosec)
 
-![BiologyTools](graph/BiologyTools.svg)
 
 ### Antimony 
 - Text-based modular language

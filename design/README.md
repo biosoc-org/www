@@ -1,4 +1,4 @@
-## Projects Overview
+## Design tools
 
 This README provides a structured overview of various software tools developed by cidarlab.org, genedesign.org, hicsail, salislab, synbiohub.org, and others focusing on those for designing synthetic biology constructs.
 Each tool has its specific use cases, features, and resources available for further exploration.
@@ -6,7 +6,6 @@ Each tool has its specific use cases, features, and resources available for furt
 Parses a rich set of operators as defined by GOLDBAR and enumerates genetic designs that satisfy user-defined specifications through mathematically rigorous graphs.
 
 
-![CADTools](graph/CADTools.svg)
 
 
 #### Resources

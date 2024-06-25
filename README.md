@@ -17,6 +17,8 @@ Contributions require testing, bug reports, user documentation, and code example
 + [Analysis tools](analysis)
 + [Standards, languages, libraries](tools)
 
+![BiologyTools](graph/BiologyTools.svg)
+
 ### SBOL Designer [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/SBOLD.md)
 
 SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.
@@ -53,9 +55,7 @@ It allows users to create and manipulate genetic construct sequences using the S
 This repository provides a comprehensive list of tools designed to facilitate the design and automation of microfluidic devices and other biological tasks. Each tool comes with a description, relevant links to project websites, source code, and demo videos.
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
 
-
-![DataManagement](graph/DataManagement.svg)
-
+![CADTools](graph/CADTools.svg)
 
 ### Contents
 
@@ -140,7 +140,7 @@ OWL is an automatic datasheet generator specifically designed for synthetic biol
 
 - [Source Code](https://github.com/CIDARLAB/Owl_v1)
 
-## Projects Overview [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/design/README.md)
+## Design tools [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/design/README.md)
 
 This README provides a structured overview of various software tools developed by cidarlab.org, genedesign.org, hicsail, salislab, synbiohub.org, and others focusing on those for designing synthetic biology constructs.
 Each tool has its specific use cases, features, and resources available for further exploration.
@@ -148,7 +148,7 @@ Each tool has its specific use cases, features, and resources available for furt
 Parses a rich set of operators as defined by GOLDBAR and enumerates genetic designs that satisfy user-defined specifications through mathematically rigorous graphs.
 
 
-![CADTools](graph/CADTools.svg)
+
 
 #### Resources
 - [Project Website](https://github.com/hicsail/constellation-js)
@@ -385,7 +385,6 @@ These tools cover a range of purposes including modular model definition, flow c
 8. [GSL](#gsl)
 9. [MoSec](#mosec)
 
-![BiologyTools](graph/BiologyTools.svg)
 
 ### Antimony 
 - Text-based modular language
