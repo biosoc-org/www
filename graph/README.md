@@ -103,4 +103,79 @@ graph TD
     Morpheus --> MorpheusF3[Mathematical Expressions]
 ```
 
-These diagrams are only a starting point. Each box can be expanded with more granular details and additional layers as necessary, based on the detailed information you may wish to include from your extensive documentation. You can also create separate graphs focusing on specific types of tools like CAD, data management, and analysis tools to provide more detailed insights into each category.
+
+
+
+### Overview of Synthetic Biology Software Tools
+This graph provides a clear overview of the categories and their respective software tools.
+
+CAD Tools
+
+```mermaid
+graph TD
+    A[Synthetic Biology Software Tools]
+    
+    A --> B[CAD Tools]
+    B --> B1[SBOLDesigner: genetic constructs]
+    B --> B2[3DμF: microfluidic device design]
+    B --> B3[Primer3: design for PCR and sequencing]
+```
+
+Microfluidic Automation
+```mermaid
+graph TD
+    A[Synthetic Biology Software Tools]
+    
+    A --> C[Microfluidic Automation]
+    C --> C1[PyHamilton: Libraries for Hamilton liquid handling robots]
+    C --> C2[Fluigi: Automates microfluidic device design]
+
+```
+
+
+
+
+Data Management
+
+```mermaid
+graph TD
+    A[Synthetic Biology Software Tools]
+    
+    A --> D[Data Management]
+    D --> D1[Clotho: synthetic bio systems and data framework]
+    D --> D2[Knox: genetic design spaces repository]
+    D --> D3[OWL: synthetic biology generator]
+
+```
+
+
+
+
+Analysis
+
+```mermaid
+graph TD
+    A[Synthetic Biology Software Tools]
+    
+    A --> E[Analysis Tools]
+    E --> E1[BioConductor: Analysis using R language]
+    E --> E2[Copasi: Simulates biological systems with ODEs & SBML]
+    E --> E3[RoadRunner: Portable simulation for SBML models]
+    E --> E4[Morpheus: Cell-based modeling environment]
+
+```
+
+
+
+
+Synthetic
+```mermaid
+graph TD
+    A[Synthetic Biology Software Tools]
+    
+    A --> F[Synthetic Biology Standards, Languages, Libraries]
+    F --> F1[Antimony: Modular language for model definitions]
+    F --> F2[CELLO: Genetic circuit design via Verilog]
+    F --> F3[Eugene: Rule-based design for bio systems]
+    F --> F4[GSL: Design language for complex DNA constructs]
+```

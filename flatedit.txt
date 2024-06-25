@@ -1,9 +1,9 @@
 DOCS/HEAD.md
 DOCS/MENU.md
-DOCS/SBOLD.md
-assembly/README.md
-dataops/README.md
+DOCS/INTRO.md
 design/README.md
 analysis/README.md
+assembly/README.md
+dataops/README.md
 tools/README.md
 DOCS/SOURCES.md
