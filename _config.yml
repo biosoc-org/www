@@ -1,0 +1,11 @@
+title: "biosoc.org"
+description: "BioSoc Society hopes to empower all community members to be makers and creators rather than passive recipients. We support over a dozen applications in the synthetic biology community and many on Github."
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

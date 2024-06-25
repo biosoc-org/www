@@ -646,5 +646,24 @@ This document provides a brief overview and resource links for synthetic biology
 
 + download [biosoc-software.pdf](biosoc-software.pdf)
 
+ [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/MERMAID.md)
+---
+
+
+
+<script type="module">    
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  //import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js';
+  mermaid.initialize({
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+  });
+  mermaid.init(undefined, '.language-mermaid');
+</script>
+
 ---
 + Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
