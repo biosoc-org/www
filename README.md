@@ -1,5 +1,5 @@
 
-## [biosoc.org](http://biosoc.org) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/HEAD.md)
+## About us [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/DOCS/HEAD.md)
 
 BioSoc Society hopes to empower all community members to be makers and creators rather than passive recipients. 
 Everyone is encouraged to contribute, no matter what skill level.
