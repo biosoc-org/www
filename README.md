@@ -658,7 +658,7 @@ This document provides a brief overview and resource links for synthetic biology
     startOnReady:true,
     theme: 'forest',
     flowchart:{
-            useMaxWidth:false,
+            useMaxWidth:true,
             htmlLabels:true
         }
   });

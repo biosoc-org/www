@@ -10,7 +10,7 @@
     startOnReady:true,
     theme: 'forest',
     flowchart:{
-            useMaxWidth:false,
+            useMaxWidth:true,
             htmlLabels:true
         }
   });
