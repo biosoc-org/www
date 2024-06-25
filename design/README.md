@@ -5,6 +5,10 @@ Each tool has its specific use cases, features, and resources available for furt
 
 Parses a rich set of operators as defined by GOLDBAR and enumerates genetic designs that satisfy user-defined specifications through mathematically rigorous graphs.
 
+
+![CADTools](graph/CADTools.svg)
+
+
 #### Resources
 - [Project Website](https://github.com/hicsail/constellation-js)
 - [Source Code](https://github.com/hicsail/constellation-js)

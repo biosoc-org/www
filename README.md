@@ -54,6 +54,9 @@ This repository provides a comprehensive list of tools designed to facilitate th
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
 
 
+![DataManagement](graph/DataManagement.svg)
+
+
 ### Contents
 
 1. [3DμF](#3dμf)
@@ -107,6 +110,7 @@ Comprehensive tools aimed at improving data management in synthetic biology.
 Each application offers specialized functionalities to support and enhance your research endeavors.
 For more information and to access the resources, please refer to the links provided. Should you have any questions or require further assistance, do not hesitate to contact us or visit our project repositories.
 
+![DataManagement](graph/DataManagement.svg)
 
 ### Clotho
 
@@ -142,6 +146,9 @@ This README provides a structured overview of various software tools developed b
 Each tool has its specific use cases, features, and resources available for further exploration.
 
 Parses a rich set of operators as defined by GOLDBAR and enumerates genetic designs that satisfy user-defined specifications through mathematically rigorous graphs.
+
+
+![CADTools](graph/CADTools.svg)
 
 #### Resources
 - [Project Website](https://github.com/hicsail/constellation-js)
@@ -270,8 +277,9 @@ Tool for modeling, analysis, and design of genetic circuits, also applicable to 
 
 ##  Analysis Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/analysis/README.md)
 
-
 various computational biology software tools, including their types, functionalities, and access to their project websites, source codes, and demos.
+
+![AnalysisTools](graph/AnalysisTools.svg)
 
 ### Aquarium
 
@@ -377,7 +385,7 @@ These tools cover a range of purposes including modular model definition, flow c
 8. [GSL](#gsl)
 9. [MoSec](#mosec)
 
-
+![BiologyTools](graph/BiologyTools.svg)
 
 ### Antimony 
 - Text-based modular language
