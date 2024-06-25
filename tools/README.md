@@ -1,4 +1,4 @@
-## Synthetic Biology Tools - Biosoc.org
+## Synthetic Biology Tools
 
 This documentation provides a comprehensive overview of various software tools useful for synthetic biology applications. 
 These tools cover a range of purposes including modular model definition, flow cytometry data analysis, genetic circuit creation, metabolic pathway mapping, genomic reprogramming, and DNA sequence generation.
@@ -17,9 +17,8 @@ These tools cover a range of purposes including modular model definition, flow c
 
 
 
-### Antimony
-
-**Software Type**: Text-based modular language
+### Antimony 
+- Text-based modular language
 
 A text-based modular human-readable/writable model definition language with capabilities of easy translation into SMBL.
 
@@ -29,9 +28,8 @@ A text-based modular human-readable/writable model definition language with capa
 
 
 
-### FloCal
-
-**Software Type**: Library for flow cytometry data
+### FloCal 
+- Library for flow cytometry data
 
 A library for reading, analyzing, and calibrating flow cytometry data; accepts FCS files as input and is compatible with different calibration particles, fluorescent probes, and cell types.
 
@@ -41,9 +39,8 @@ A library for reading, analyzing, and calibrating flow cytometry data; accepts F
 
 
 
-### 3. Kera
-
-**Software Type**: Object-oriented programming language
+### 3. Kera 
+- Object-oriented programming language
 
 An object-oriented programming language for synthetic biology, tempered by the biopart rule library, Samhita.
 
@@ -52,9 +49,8 @@ An object-oriented programming language for synthetic biology, tempered by the b
 
 
 
-### 4. CELLO
-
-**Software Type**: Genetic circuit design tool
+### 4. CELLO 
+- Genetic circuit design tool
 
 Software for creating genetic circuits, using as input a high-level logic specification written in Verilog.
 
@@ -67,7 +63,7 @@ Software for creating genetic circuits, using as input a high-level logic specif
 
 ### 5. GLAMM
 
-**Software Type**: Metabolic pathway mapping
+- Metabolic pathway mapping
 
 Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and microbial metabolism.
 
@@ -79,7 +75,7 @@ Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and
 
 ### 6. Merlin
 
-**Software Type**: Genomic reprogramming application
+- Genomic reprogramming application
 
 A web-based application for genomic reprogramming via a rapid and efficient method known as Multiplex Automated Genome Engineering (MAGE).
 
@@ -91,7 +87,7 @@ A web-based application for genomic reprogramming via a rapid and efficient meth
 
 ### 7. Eugene
 
-**Software Type**: Language for rule-based design
+- Language for rule-based design
 
 An ecosystem of languages tailored for rule-based design of synthetic biological systems, devices, parts, and DNA sequences.
 
@@ -104,7 +100,7 @@ An ecosystem of languages tailored for rule-based design of synthetic biological
 
 ### 8. GSL
 
-**Software Type**: DNA construct design language
+- DNA construct design language
 
 A language that facilitates the design of large and complex DNA constructs used to engineer genomes; incorporates a set of low-level DNA manipulation primitives.
 
@@ -115,7 +111,7 @@ A language that facilitates the design of large and complex DNA constructs used 
 
 ### 9. MoSec
 
-**Software Type**: DNA sequence generation application
+- DNA sequence generation application
 
 Java application capable of generating DNA sequences, and exporting formats such as FASTA, GenBank, EMBL, and SBOL from SBML and CellML models.
 

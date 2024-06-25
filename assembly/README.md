@@ -1,4 +1,4 @@
-## Software for Microfluidic and Biological Automation - Biosoc.org
+## Software for Microfluidic and Biological Automation
 
 This repository provides a comprehensive list of tools designed to facilitate the design and automation of microfluidic devices and other biological tasks. Each tool comes with a description, relevant links to project websites, source code, and demo videos.
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.

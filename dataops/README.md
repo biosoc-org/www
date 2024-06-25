@@ -1,4 +1,4 @@
-## Data Management - biosoc.org 
+## Data Management
 
 Comprehensive tools aimed at improving data management in synthetic biology.
 Each application offers specialized functionalities to support and enhance your research endeavors.

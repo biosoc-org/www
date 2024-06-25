@@ -48,7 +48,7 @@ It allows users to create and manipulate genetic construct sequences using the S
 + [SBOLDesigner DEMO on youtube](https://www.youtube.com/watch?v=bR1SDt3RAP0)
 + [SBOLDesigner Description by Myers Research Group](https://async.ece.utah.edu/tools/sboldesigner/)
 
-## Software for Microfluidic and Biological Automation - Biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/assembly/README.md)
+## Software for Microfluidic and Biological Automation [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/assembly/README.md)
 
 This repository provides a comprehensive list of tools designed to facilitate the design and automation of microfluidic devices and other biological tasks. Each tool comes with a description, relevant links to project websites, source code, and demo videos.
 Feel free to explore the links provided for more information and access to each software tool. For any additional inquiries or support, refer to the respective project websites and repositories.
@@ -97,7 +97,7 @@ Primer3 is a tool used for designing and analyzing primers for PCR reactions. It
 - **Source Code:** [SourceForge Repository](https://sourceforge.net/projects/primer3/)
 - **Demo Video:** [YouTube Demo](https://www.youtube.com/watch?v=v8ehlJbwcEs&ab_channel=BioinformaticswithDr.Mudasir)
 
-## Data Management - biosoc.org  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/dataops/README.md)
+## Data Management [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/dataops/README.md)
 
 Comprehensive tools aimed at improving data management in synthetic biology.
 Each application offers specialized functionalities to support and enhance your research endeavors.
@@ -130,7 +130,7 @@ OWL is an automatic datasheet generator specifically designed for synthetic biol
 
 - [Source Code](https://github.com/CIDARLAB/Owl_v1)
 
-## Projects Overview - biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/design/README.md)
+## Projects Overview [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/design/README.md)
 
 This README provides a structured overview of various software tools developed by cidarlab.org, genedesign.org, hicsail, salislab, synbiohub.org, and others focusing on those for designing synthetic biology constructs.
 Each tool has its specific use cases, features, and resources available for further exploration.
@@ -262,7 +262,7 @@ Tool for modeling, analysis, and design of genetic circuits, also applicable to 
 - [Source Code](https://github.com/MyersResearchGroup/iBioSim)
 - [Demo](https://www.youtube.com/watch?v=YfsUis2cV2A&ab_channel=SyntheticBiologyOpenLanguageSBOL)
 
-#  Analysis Software - biososc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/analysis/README.md)
+#  Analysis Software [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/analysis/README.md)
 
 
 various computational biology software tools, including their types, functionalities, and access to their project websites, source codes, and demos.
@@ -354,7 +354,7 @@ A programming, modeling, specifying, and simulating language for the behavior of
 - [Project Website](https://depts.washington.edu/soslab/gro/)  
 - [Source Code](https://github.com/klavinslab/gro)
 
-## Synthetic Biology Tools - Biosoc.org [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/tools/README.md)
+## Synthetic Biology Tools [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/biosoc-org/www/edit/main/tools/README.md)
 
 This documentation provides a comprehensive overview of various software tools useful for synthetic biology applications. 
 These tools cover a range of purposes including modular model definition, flow cytometry data analysis, genetic circuit creation, metabolic pathway mapping, genomic reprogramming, and DNA sequence generation.
@@ -373,9 +373,8 @@ These tools cover a range of purposes including modular model definition, flow c
 
 
 
-### Antimony
-
-**Software Type**: Text-based modular language
+### Antimony 
+- Text-based modular language
 
 A text-based modular human-readable/writable model definition language with capabilities of easy translation into SMBL.
 
@@ -385,9 +384,8 @@ A text-based modular human-readable/writable model definition language with capa
 
 
 
-### FloCal
-
-**Software Type**: Library for flow cytometry data
+### FloCal 
+- Library for flow cytometry data
 
 A library for reading, analyzing, and calibrating flow cytometry data; accepts FCS files as input and is compatible with different calibration particles, fluorescent probes, and cell types.
 
@@ -397,9 +395,8 @@ A library for reading, analyzing, and calibrating flow cytometry data; accepts F
 
 
 
-### 3. Kera
-
-**Software Type**: Object-oriented programming language
+### 3. Kera 
+- Object-oriented programming language
 
 An object-oriented programming language for synthetic biology, tempered by the biopart rule library, Samhita.
 
@@ -408,9 +405,8 @@ An object-oriented programming language for synthetic biology, tempered by the b
 
 
 
-### 4. CELLO
-
-**Software Type**: Genetic circuit design tool
+### 4. CELLO 
+- Genetic circuit design tool
 
 Software for creating genetic circuits, using as input a high-level logic specification written in Verilog.
 
@@ -423,7 +419,7 @@ Software for creating genetic circuits, using as input a high-level logic specif
 
 ### 5. GLAMM
 
-**Software Type**: Metabolic pathway mapping
+- Metabolic pathway mapping
 
 Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and microbial metabolism.
 
@@ -435,7 +431,7 @@ Provides maps for metabolic pathways, biosynthesis of secondary metabolites, and
 
 ### 6. Merlin
 
-**Software Type**: Genomic reprogramming application
+- Genomic reprogramming application
 
 A web-based application for genomic reprogramming via a rapid and efficient method known as Multiplex Automated Genome Engineering (MAGE).
 
@@ -447,7 +443,7 @@ A web-based application for genomic reprogramming via a rapid and efficient meth
 
 ### 7. Eugene
 
-**Software Type**: Language for rule-based design
+- Language for rule-based design
 
 An ecosystem of languages tailored for rule-based design of synthetic biological systems, devices, parts, and DNA sequences.
 
@@ -460,7 +456,7 @@ An ecosystem of languages tailored for rule-based design of synthetic biological
 
 ### 8. GSL
 
-**Software Type**: DNA construct design language
+- DNA construct design language
 
 A language that facilitates the design of large and complex DNA constructs used to engineer genomes; incorporates a set of low-level DNA manipulation primitives.
 
@@ -471,7 +467,7 @@ A language that facilitates the design of large and complex DNA constructs used 
 
 ### 9. MoSec
 
-**Software Type**: DNA sequence generation application
+- DNA sequence generation application
 
 Java application capable of generating DNA sequences, and exporting formats such as FASTA, GenBank, EMBL, and SBOL from SBML and CellML models.
 

@@ -1,4 +1,4 @@
-## Projects Overview - biosoc.org
+## Projects Overview
 
 This README provides a structured overview of various software tools developed by cidarlab.org, genedesign.org, hicsail, salislab, synbiohub.org, and others focusing on those for designing synthetic biology constructs.
 Each tool has its specific use cases, features, and resources available for further exploration.

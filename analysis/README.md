@@ -1,4 +1,4 @@
-#  Analysis Software - biososc.org
+#  Analysis Software
 
 
 various computational biology software tools, including their types, functionalities, and access to their project websites, source codes, and demos.
